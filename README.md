@@ -3,6 +3,8 @@ Google Business Intelligence Certificate: Cyclistic Exemplar
 
 An interactive Tableau dashboard that analyzes NYC Citi Bike usage patterns, seasonal demand, trip behavior, and weather impacts to support operational and marketing decisions.
 
+---
+
 ## Project Overview
 
 This project analyzes the NYC Citi Bike trip dataset using Tableau.
@@ -21,9 +23,9 @@ The dashboard is designed to answer several business questions:
 
 ## 🌐 Live Dashboard
 
-👉 **Explore the interactive dashboard on Tableau Public**
-[https://public.tableau.com/views/Cyclistic_17839469593750/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Cyclistic_17839469593750/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+---
 
 ## 📊 Data Sources
 
