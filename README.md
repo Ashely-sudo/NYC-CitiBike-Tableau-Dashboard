@@ -203,10 +203,4 @@ Potential future enhancements include:
 
 # 👤 Author
 
-**Wang Xuefei**
-
-Business Intelligence | Data Analytics | Tableau | SQL | BigQuery
-
----
-
-## ⭐ If you find this project helpful, feel free to give it a star!
+**Xuefei Wang**
