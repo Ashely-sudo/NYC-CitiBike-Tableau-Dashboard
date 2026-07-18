@@ -19,6 +19,12 @@ The dashboard is designed to answer several business questions:
 
 ---
 
+## 🌐 Live Dashboard
+
+👉 **Explore the interactive dashboard on Tableau Public**
+[https://public.tableau.com/views/Cyclistic_17839469593750/1?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
+
 ## 📊 Data Sources
 
 | Dataset | Description |
