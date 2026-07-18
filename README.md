@@ -188,32 +188,6 @@ This project demonstrates the following Tableau features:
 
 ---
 
-# 📁 Repository Structure
-
-```text
-NYC-CitiBike-Tableau-Dashboard/
-│
-├── README.md
-├── LICENSE
-├── data/
-│   └── NYC_data.csv
-│
-├── sql/
-│   └── create_dataset.sql
-│
-├── tableau/
-│   └── NYC_CitiBike_Dashboard.twbx
-│
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   └── dashboard4.png
-
-```
-
----
-
 # 🔮 Future Improvements
 
 Potential future enhancements include:
